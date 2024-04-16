@@ -37,15 +37,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Economics
+      institution: Goethe University Frankfurt 
+      year: 2025
+    - course: M.Sc. in Economics 
+      institution: University of Bern, Switzerland
+      year: 2018
+    - course: B.Sc. in Economics
+      institution: University of Bern, Switzerland
+      year: 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -121,5 +121,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Ph.D. student at the GSEFM at the [Goethe University Frankfurt](https://www.gsefm.eu/about-us.html) and a Research Assistant at the [Institute for Monetary and Financial Stability](https://www.imfs-frankfurt.de). I am an applied theorist in the area of macroeconomics. My research focuses on information and behavioral frictions in general equilibrium models, households heterogeneity and monetary policy.  
+
 {style="text-align: justify;"}
