@@ -90,15 +90,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: 
-          date_end: 
-          date_start: 
-          description: 
-          icon: 
+        - certificate_url: ''
+          date_end: '2023-08-01'
+          date_start: '2021-09-15'
+          description: '' 
+          icon: ''
           organization: Goethe University Frankfurt 
-          organization_url:  
-          title: Macroeconomics 2 
-          url: 
+          organization_url:  ''
+          title: Macroeconomics 2 (Bachelor) 
+          url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
