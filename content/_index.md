@@ -149,12 +149,6 @@ sections:
       view: 2
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    id: projects
-    content:
-    title: Section 1
-    subtitle:
-    text: Teaching 
   - block: collection
     id: featured
     content:
