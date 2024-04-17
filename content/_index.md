@@ -154,7 +154,7 @@ sections:
     content:
     title: Section 1
     subtitle:
-    tesxt: Teaching 
+    text: Teaching 
   - block: collection
     id: featured
     content:
