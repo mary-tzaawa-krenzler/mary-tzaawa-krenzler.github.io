@@ -97,7 +97,7 @@ sections:
           icon: ''
           organization: Goethe University Frankfurt 
           organization_url:  ''
-          title: Advanced Macroeconomics II.I (Ph.D. first year) 
+          title: 'Advanced Macroeconomics II.I (Ph.D. first year)' 
           url: ''
        -  certificate_url: ''
           date_end: '2022-09-15'
@@ -106,7 +106,7 @@ sections:
           icon: ''
           organization: Goethe University Frankfurt 
           organization_url: ''
-          title: Monetary Theory and Policy (Master)
+          title: 'Monetary Theory and Policy (Master)'
           url: ''
        - certificate_url: ''
           date_end: '2023-09-01'
@@ -115,7 +115,7 @@ sections:
           icon: ''
           organization: Goethe University Frankfurt 
           organization_url:  ''
-          title: Macroeconomics 2 (Bachelor) 
+          title: 'Macroeconomics 2 (Bachelor)' 
           url: ''
       - certificate_url: ''
           date_end: '2022-09-15'
@@ -124,7 +124,7 @@ sections:
           icon:  ''
           organization: Goethe University Frankfurt
           organization_url:  '' 
-          title: Business Cycle Theory and Policy
+          title: 'Business Cycle Theory and Policy'
           url: ''
     design:
       columns: '2'
