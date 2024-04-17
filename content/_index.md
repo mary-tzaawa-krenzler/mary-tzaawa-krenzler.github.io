@@ -42,6 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   - block: experience
     content:
       title: Experience
@@ -80,7 +88,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: Teaching
+      title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -90,7 +98,6 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        items:
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
@@ -154,33 +161,34 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: tzaawakr@its.uni-frankfurt.de
       phone:  
-      appointment_url: 
+      appointment_url:  
       address:
         street: Theodor-W.-Adorno Platz 3
-        postcode: 
-        city: 60629 Frankfurt am Main 
+        city: Frankfurt am Main 
         region: 
+        postcode: '60629'
         country:  Germany
         country_code: DE
-      directions: 
+      directions: E
       office_hours:
+        
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude:
-        longitude:
+        latitude: 
+        longitude:  
       contact_links:
+        - icon: 
+          icon_pack: 
+          name:  
+          link: 
+        - icon:
+          icon_pack: 
+          name: 
+          link: 
         - icon: 
           icon_pack:
           name:
-          link: 
-        - icon: 
-          icon_pack: 
-          name: 
-          link: 
-        - icon: 
-          icon_pack: 
-          name: 
-          link: 
+          link:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
