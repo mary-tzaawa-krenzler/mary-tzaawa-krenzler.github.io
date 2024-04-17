@@ -91,7 +91,25 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ''
-          date_end: '2023-08-01'
+          date_end: '2023-09-01'
+          date_start: '2022-04-15'
+          description: '' 
+          icon: ''
+          organization: Goethe University Frankfurt 
+          organization_url:  ''
+          title: Advanced Macroeconomics II.I (Ph.D. first year) 
+          url: ''
+       -  certificate_url: ''
+          date_end: '2022-09-15'
+          date_start: '2022-04-15'
+          description: ''
+          icon: ''
+          organization: Goethe University Frankfurt 
+          organization_url: ''
+          title: Monetary Theory and Policy (Master)
+          url: ''
+       - certificate_url: ''
+          date_end: '2023-09-01'
           date_start: '2021-09-15'
           description: '' 
           icon: ''
@@ -99,23 +117,14 @@ sections:
           organization_url:  ''
           title: Macroeconomics 2 (Bachelor) 
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+      - certificate_url: ''
+          date_end: '2022-09-15'
+          date_start: '2023-04-01'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon:  ''
+          organization: Goethe University Frankfurt
+          organization_url:  '' 
+          title: Business Cycle Theory and Policy
           url: ''
     design:
       columns: '2'
