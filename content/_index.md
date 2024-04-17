@@ -109,13 +109,13 @@ sections:
           title: Monetary Theory and Policy (Master)
           url: ''
         - certificate_url:  '' 
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_end: '20223-09-15'
+          date_start: '2021-09-15'
           description: ''
-          icon: datacamp
+          icon:  ''
           organization: Goethe University Frankfurt 
           organization_url:  ''
-          title: 'Object-Oriented Programming in R'
+          title: Macroeconomics 2 (Bachelor)
           url: ''
     design:
       columns: '2'
