@@ -131,7 +131,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Teaching
       filters:
         folders:
           - project
@@ -149,6 +149,12 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: markdown
+     id: projects 
+    content:
+    title: Teaching
+    subtitle:
+    text: Teaching
   - block: collection
     id: featured
     content:
