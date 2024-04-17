@@ -156,15 +156,30 @@ sections:
       appointment_url: 
       address:
         street: Theodor-W.-Adorno Platz 3
-        city: Frankfurt am Main 
+        postcode:
+        city: 60629 Frankfurt am Main 
         region: 
-        postcode: '60326'
         country:  Germany
         country_code: 
       directions: 
       office_hours:
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
+        latitude:
+        longitude:
+      contact_links:
+        - icon: 
+          icon_pack:
+          name:
+          link: '
+        - icon: 
+          icon_pack: 
+          name: 
+          link: '
+        - icon: 
+          icon_pack: 
+          name: 
+          link: 
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
