@@ -109,7 +109,7 @@ sections:
           title: Monetary Theory and Policy (Master)
           url: ''
         - certificate_url:  '' 
-          date_end: '20223-09-15'
+          date_end: '2023-09-15'
           date_start: '2021-09-15'
           description: ''
           icon:  ''
