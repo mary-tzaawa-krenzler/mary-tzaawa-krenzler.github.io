@@ -90,31 +90,31 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url:  ''
+          date_end: '2023-09-01'
+          date_start: '2022-01-04'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          icon:  ''
+          organization: Goethe Unviversity Frankfurt 
+          organization_url: ''
+          title: Advanced Macroeconomics II.I (Ph.D. first year)
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
+        - certificate_url:  ''
+          date_end: '2022-09-01'
+          date_start: '2022-04-15'
+          description:  '' 
+          icon: ''
+          organization: Goethe University Frankfurt
+          organization_url: ''
+          title: Monetary Theory and Policy (Master)
+          url: ''
+        - certificate_url:  '' 
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
           icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
+          organization: Goethe University Frankfurt 
+          organization_url:  ''
           title: 'Object-Oriented Programming in R'
           url: ''
     design:
