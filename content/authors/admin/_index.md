@@ -94,7 +94,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "tzaawakr@its.uni-frankfurt.de"
+    link: mailto:tzaawakr@its.uni-frankfurt.de
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
