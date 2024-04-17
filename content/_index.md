@@ -157,10 +157,10 @@ sections:
       address:
         street: Theodor-W.-Adorno Platz 3
         postcode: 
-        city: 606290Frankfurt am Main 
+        city: 60629 Frankfurt am Main 
         region: 
         country:  Germany
-        country_code: 
+        country_code: DE
       directions: 
       office_hours:
       # Choose a map provider in `params.yaml` to show a map from these coordinates
