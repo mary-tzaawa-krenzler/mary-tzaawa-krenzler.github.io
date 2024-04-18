@@ -27,7 +27,7 @@ summary: We study how heterogeneous attention to inflation affects monetary poli
 tags:
 featured: false
 
-links:''
+
 url_pdf: 
 url_code: ''
 url_dataset: ''
