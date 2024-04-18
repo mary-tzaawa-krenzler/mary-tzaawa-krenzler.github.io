@@ -33,13 +33,13 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-  - block: about.biography
+ - block: about.biography
     id: about
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
+- block: collection
     content:
       title: Publications
       text: |-
@@ -50,7 +50,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
+- block: collection
     content:
       title: Working Papers
       text: |-
@@ -61,7 +61,7 @@ sections:
      design:
       columns: '2'
       view: compact
-   - block: collection
+  - block: collection
      content:
        title: Work in progress
        text: |-
