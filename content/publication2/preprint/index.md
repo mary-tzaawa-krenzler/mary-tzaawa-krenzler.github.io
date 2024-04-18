@@ -3,7 +3,7 @@ title: "Inattentiveness and the Taylor Principle"
 authors:
 - admin
 - Alexander Meyer-Gohde
-date: "2023-09-07T00:00:00Z"
+date: "2023-09 T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
