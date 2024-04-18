@@ -64,14 +64,14 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: minimal
-    content:
-      title: Work in progress
-      text: |-
-      filters:
-        - research
-    design:
-      columns: '2'   
+#  - block: markdown
+#    content:
+#      title: Work in progress
+#      text: |-
+#      filters:
+#        - research
+#    design:
+#      columns: '2'   
  - block: collection
     content:
       title: Work in progress
