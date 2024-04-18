@@ -68,9 +68,8 @@ sections:
     content:
       title: Work in progress
       text: |-
-      filters:
-        folders:
-          - research
+     ## Heterogeneous Attention
+    Ekaterina Shabalina
     design:
       columns: '2'   
   - block: collection
