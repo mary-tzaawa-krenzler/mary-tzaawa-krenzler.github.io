@@ -44,7 +44,29 @@ sections:
       username: admin
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
+      text: |-
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+    - block: collection
+    content:
+      title: Working Papers
+      text: |-
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+      - block: collection
+    content:
+      title: Work in progress
       text: |-
       filters:
         folders:
