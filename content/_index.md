@@ -75,6 +75,17 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: markdown
+    content:
+      title: Work in progress
+      text: |-
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: compact
   - block: experience
     content:
       title: Experience
