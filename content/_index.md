@@ -63,7 +63,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: list
+      view: compact
   - block: collection
     content:
       title: Work in progress
