@@ -81,7 +81,7 @@ sections:
       text: |-
       filters:
         folders:
-          - publication
+          - research
         exclude_featured: true
     design:
       columns: '2'
