@@ -68,7 +68,7 @@ sections:
     content:
       title: Work in progress
       text: |-
-      ##Heterogeneous Attention     
+      '##Heterogeneous Attention' 'Ekaterina'     
     design:
       columns: '2'   
   - block: collection
