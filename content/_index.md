@@ -78,11 +78,7 @@ sections:
   - block: markdown
     content:
       title: Work in progress
-      text: |-
-      filters:
-        folders:
-          - research
-        exclude_featured: true
+      text: **Heterogeneous attention**
     design:
       columns: '2'
       view: compact
