@@ -61,16 +61,6 @@ sections:
     design:
       columns: '2'
       view: compact
-   - block: markdown
-     content:
-       title: Work in progress
-       text: Heterogeneous Attention
-       text: |-
-       filters:
-         folders:
-         - research
-     design:
-       columns: '2'   
    - block: collection
      content:
        title: Work in progress
