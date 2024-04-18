@@ -1,7 +1,4 @@
 ---
-widget: blank
-headless: true 
-
 title: "Inattentiveness and the Taylor Principle"
 authors:
 - admin
