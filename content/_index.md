@@ -59,7 +59,7 @@ sections:
       text: |-
       filters:
         folders:
-          - publication3
+          - publication2
         exclude_featured: true
     design:
       columns: '2'
