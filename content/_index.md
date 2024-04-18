@@ -54,6 +54,7 @@ sections:
 #      columns: '2'
 #      view: citation
   - block: collection
+    id: workingpaper
     content:
       title: Working Papers
       text: |-
@@ -65,6 +66,7 @@ sections:
       columns: '2'
       view: compact
   - block: collection
+    id: progress
     content:
       title: Work in progress
       text: |-
@@ -111,7 +113,7 @@ sections:
     design:
       columns: '2'
   - block: portfolio
-    id: projects
+    id: teaching
     content:
       title: Teaching
       filters:
