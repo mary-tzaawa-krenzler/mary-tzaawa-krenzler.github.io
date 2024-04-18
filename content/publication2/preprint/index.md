@@ -12,7 +12,8 @@ publishDate: "2024-03-14 T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: 3 
+# ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
