@@ -20,7 +20,7 @@ main:
     url: '#publication2'
     weight: 20
   - name: Work in Progress
-    url: '#publication3'
+    url: '#publication'
     weight: 30
  #- name: Publications
  #   url: '#featured'
