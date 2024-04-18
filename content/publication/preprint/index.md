@@ -1,9 +1,9 @@
 ---
-title: "Heterogeneous Attention to Inflation and Monetary policy"
+title: "Inattentiveness and the Taylor Principle"
 authors:
 - admin
-- Ekaterina Shabalina
-date: "2024-04-15T00:00:00Z"
+- Alexander Meyer-Gohde
+date: "2024-03-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,17 +18,18 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: We study how heterogeneous attention to inflation affects monetary policy transmission. Firstly, we empirically show that households’ attention to inflation varies with socio-demographic characteristics using household-level surveys for the US and Australia. Given that some prices are salient, we also measure shock-specific attention to monetary and oil price shocks. Secondly, we study how differential attention to inflation through the formation of inflation expectations affects monetary policy transmission. For this purpose, we introduce a sparsity-based maximization operator into a two-asset HANK model calibrated to match empirical evidence for both countries. #Quantitative simulations show that compared to rational inflation expectations, monetary policy faces a worse inflation-output trade-off due to larger indirect effects compared to direct effects. Those effects in a model with inattention manifest through a larger perceived fall in labor income after monetary policy tightening, which leads to a larger fall in consumption despite a weaker intertemporal substitution effect that results from lower perceived real rates.
-
+abstract: We present determinacy bounds on monetary policy in three models of inattentiveness - sticky information, imperfect common knowledge, and arbitrary finite inattentiveness. We find that these bounds are identical across these models as they all share a common vertical long run Phillips curve. The resulting bounds are more conservative than in the standard Calvo sticky price New Keynesian model. Specifically, the Taylor principle is now necessary directly - no amount of output targeting can substitute for the monetary authority’s concern for inflation. These determinacy bounds are obtained by appealing to frequency domain and forecasting/prediction innovation techniques that themselves provide novel interpretations of the Phillips curves. 
 
 # Summary. An optional shortened abstract.
-summary: We study how heterogeneous attention to inflation affects monetary policy transmission. For this purpose we provide epmirical evidence on attention and study monetary transmission in a two-asset HANK model with inattentive households. Draft coming soon! 
+summary: Reject & Resubmit, Journal of Economic Theory #We present determinacy bounds on monetary policy in three models of inattentiveness - sticky information, imperfect common knowledge, and arbitrary finite inattentiveness. We find that the Taylor principle is now necessary directly. These determinacy bounds are obtained by appealing to frequency domain techniques that themselves provide novel interpretations of the Phillips curves.
 
 tags:
 featured: false
 
-
-url_pdf: 
+links:
+- name: IMFS Working paper (earlier version)
+  url: https://www.imfs-frankfurt.de/fileadmin/user_upload/IMFS_WP_189.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -40,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ' '
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
@@ -57,10 +58,8 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% callout note %}}
-Draft coming soon!
-{{% /callout %}}
 
+We present determinacy bounds on monetary policy in three models of inattentiveness - sticky information, imperfect common knowledge, and arbitrary finite inattentiveness. We find that these bounds are identical across these models as they all share a common vertical long run Phillips curve. The resulting bounds are more conservative than in the standard Calvo sticky price New Keynesian model. Specifically, the Taylor principle is now necessary directly - no amount of output targeting can substitute for the monetary authority’s concern for inflation. These determinacy bounds are obtained by appealing to frequency domain and forecasting/prediction innovation techniques that themselves provide novel interpretations of the Phillips curves.
