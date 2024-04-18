@@ -64,7 +64,7 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: markdown
+  - block: minimal
     content:
       title: Work in progress
       text: |-
@@ -72,7 +72,7 @@ sections:
         - research
     design:
       columns: '2'   
-  - block: collection
+ - block: collection
     content:
       title: Work in progress
       text: |-
