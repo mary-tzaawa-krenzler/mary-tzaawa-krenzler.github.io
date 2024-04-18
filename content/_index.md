@@ -67,8 +67,7 @@ sections:
   - block: markdown
     content:
       title: Work in progress
-      text: |-
-      '##Heterogeneous Attention' 'Ekaterina'     
+      text:   '##Heterogeneous Attention' 'Ekaterina'     
     design:
       columns: '2'   
   - block: collection
