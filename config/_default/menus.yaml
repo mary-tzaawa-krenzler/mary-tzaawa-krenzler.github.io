@@ -17,7 +17,7 @@ main:
 #    url: '#talks'
 #    weight: 30
   - name: Working Papers
-    url: '#publication2'
+    url: '#preprint'
     weight: 20
   - name: Work in Progress
     url: '#publication'
