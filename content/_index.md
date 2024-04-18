@@ -58,7 +58,7 @@ sections:
         folders:
           - publication2
         exclude_featured: true
-    design:
+     design:
       columns: '2'
       view: compact
    - block: collection
@@ -69,7 +69,7 @@ sections:
         folders:
           - publication
         exclude_featured: true
-    design:
+     design:
       columns: '2'
       view: compact
   - block: experience
