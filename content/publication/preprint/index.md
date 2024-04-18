@@ -18,10 +18,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We study how heterogeneous attention to inflation affects monetary policy transmission. Firstly, we empirically show that households’ attention to inflation varies with socio-demographic characteristics using household-level survey data for the US and Australia. Given that some prices are salient, we also measure shock-specific attention. Secondly, we study how differential attention to inflation through the formation of inflation expectations affects monetary policy transmission. For this purpose, we introduce a sparsity-based maximization operator into a two-asset HANK model calibrated to match empirical evidence for both countries. #Quantitative simulations show that compared to rational inflation expectations, monetary policy faces a worse inflation-output trade-off due to larger indirect effects compared to direct effects. Those effects in a model with inattention manifest through a larger perceived fall in labor income after monetary policy tightening, which leads to a larger fall in consumption despite a weaker intertemporal substitution effect that results from lower perceived real rates.
 
 # Summary. An optional shortened abstract.
-summary: Draft coming soon! #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We empirically show that attention to inflation varies across socio-demogaphic characteristics and quantify monetary polciy tranmission in a two-asset HANK with inattentive households. Draft coming soon! #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
