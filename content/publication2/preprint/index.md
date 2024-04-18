@@ -26,8 +26,8 @@ summary: Reject & Resubmit, Journal of Economic Theory #We present determinacy b
 tags:
 featured: false
 
-links: 
- - name: IMFS Working paper (earlier version)
+links:
+- name: IMFS Working paper (earlier version)
   url: https://www.imfs-frankfurt.de/fileadmin/user_upload/IMFS_WP_189.pdf
 url_pdf: ''
 url_code: ''
@@ -50,7 +50,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
