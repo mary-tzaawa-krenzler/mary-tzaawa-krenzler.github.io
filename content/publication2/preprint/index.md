@@ -24,7 +24,6 @@ abstract: We present determinacy bounds on monetary policy in three models of in
 summary: We present determinacy bounds on monetary policy in three models of inattentiveness - sticky information, imperfect common knowledge, and arbitrary finite inattentiveness. We find that the Taylor principle is now necessary directly. These determinacy bounds are obtained by appealing to frequency domain techniques that themselves provide novel interpretations of the Phillips curves.
 
 tags:
-- Source Themes
 featured: false
 
 links:
@@ -59,7 +58,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 
