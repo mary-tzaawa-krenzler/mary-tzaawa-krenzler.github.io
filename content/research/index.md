@@ -16,3 +16,4 @@ design:
 ---
 
 **Heterogeneous Attention**  
+with Ekaterina Shabalina
