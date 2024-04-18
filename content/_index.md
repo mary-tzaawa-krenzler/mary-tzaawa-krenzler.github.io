@@ -88,57 +88,6 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: Teaching
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url:  ''
-          date_end: '2023-09-01'
-          date_start: '2022-01-04'
-          description: ''
-          icon:  ''
-          organization: Goethe Unviversity Frankfurt 
-          organization_url: ''
-          title: Advanced Macroeconomics II.I (Ph.D. first year)
-          url: ''
-        - certificate_url:  ''
-          date_end: '2022-09-01'
-          date_start: '2022-04-15'
-          description:  '' 
-          icon: ''
-          organization: Goethe University Frankfurt
-          organization_url: ''
-          title: Monetary Theory and Policy (Master)
-          url: ''
-        - certificate_url:  '' 
-          date_end: '2023-09-15'
-          date_start: '2021-09-15'
-          description: ''
-          icon:  ''
-          organization: Goethe University Frankfurt 
-          organization_url:  ''
-          title: Macroeconomics 2 (Bachelor)
-          url: ''
-        - certificate_url:  '' 
-          date_end: '2023-04-15'
-          date_start: '2022-09-15'
-          description: ''
-          icon:  ''
-          organization: Goethe University Frankfurt 
-          organization_url:  ''
-          title: Business Cycle Theory and Policy (Bachelor)
-          url: ''
-    design:
-      columns: '2'
   - block: portfolio
     id: projects
     content:
