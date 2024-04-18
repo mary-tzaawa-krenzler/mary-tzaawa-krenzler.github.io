@@ -42,17 +42,17 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
-    content:
-      title: Publications
-      text: |-
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+#  - block: collection
+#    content:
+#      title: Publications
+#      text: |-
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: true
+#    design:
+#      columns: '2'
+#      view: citation
   - block: collection
     content:
       title: Working Papers
