@@ -75,13 +75,6 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: markdown
-    content:
-      title: Work in progress
-      text: Heterogeneous attention
-    design:
-      columns: '2'
-      view: compact
   - block: experience
     content:
       title: Experience
