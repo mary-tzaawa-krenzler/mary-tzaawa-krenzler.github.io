@@ -53,6 +53,16 @@ sections:
 #    design:
 #      columns: '2'
 #      view: citation
+  - block: markdown
+    content:
+      title: Work in progress
+      subtitle: ''
+      text:  |-
+      filters:
+       folders:
+        - research
+    design:
+      columns: '2'
   - block: collection
     content:
       title: Working Papers
