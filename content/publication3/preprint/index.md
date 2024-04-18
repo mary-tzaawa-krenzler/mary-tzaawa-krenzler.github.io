@@ -2,7 +2,7 @@
 title: "Inattentiveness and the Taylor Principle"
 authors:
 - admin
-- Ekaterina Shabalina
+- Alexander Meyer-Gohde
 date: "2024-04-15T00:00:00Z"
 doi: ""
 
@@ -27,6 +27,8 @@ tags:
 featured: false
 
 links:
+- name: IMFS Working paper (earlier version)
+  url: https://www.imfs-frankfurt.de/fileadmin/user_upload/IMFS_WP_189.pdf
 url_pdf: ''
 url_code: ''
 url_dataset: ''
