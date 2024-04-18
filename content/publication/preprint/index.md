@@ -1,8 +1,9 @@
 ---
-title: "An example preprint / working paper"
+title: "Heterogeneous Attention to Inflation and Monetary policy"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Ekaterina Shabalina
+date: "2024-04-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,31 +18,29 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We study how heterogeneous attention to inflation affects monetary policy transmission. Firstly, we empirically show that households’ attention to inflation varies with socio-demographic characteristics using household-level surveys for the US and Australia. Given that some prices are salient, we also measure shock-specific attention to monetary and oil price shocks. Secondly, we study how differential attention to inflation through the formation of inflation expectations affects monetary policy transmission. For this purpose, we introduce a sparsity-based maximization operator into a two-asset HANK model calibrated to match empirical evidence for both countries. #Quantitative simulations show that compared to rational inflation expectations, monetary policy faces a worse inflation-output trade-off due to larger indirect effects compared to direct effects. Those effects in a model with inattention manifest through a larger perceived fall in labor income after monetary policy tightening, which leads to a larger fall in consumption despite a weaker intertemporal substitution effect that results from lower perceived real rates.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We study how heterogeneous attention to inflation affects monetary policy transmission. For this purpose we provide epmirical evidence on attention and study monetary transmission in a two-asset HANK model with inattentive households. Draft coming soon! 
 
 tags:
-- Source Themes
 featured: false
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+links:''
+url_pdf: 
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ' '
   focal_point: ""
   preview_only: false
 
@@ -62,7 +61,6 @@ slides: example
 ---
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+Draft coming soon!
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
