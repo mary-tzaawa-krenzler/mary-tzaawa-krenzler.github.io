@@ -3,6 +3,7 @@
 title: ''
 date: 2022-10-24
 type: landing
+
 sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
@@ -66,14 +67,15 @@ sections:
        text: Heterogeneous Attention
        text: |-
        filters:
+         folders:
          - research
      design:
        columns: '2'   
    - block: collection
-    content:
-      title: Work in progress
-      text: |-
-      filters:
+     content:
+       title: Work in progress
+       text: |-
+       filters:
         folders:
           - publication
         exclude_featured: true
