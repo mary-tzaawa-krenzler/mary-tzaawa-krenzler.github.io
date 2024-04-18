@@ -32,7 +32,7 @@ interests:
   - Macroeconomics
   - Information and Behavioral Frictions 
   - Monetary Policy
-  - Applied Econometrics
+  - Applied Macroeconometrics
 
 # Education to show in About widget
 education:
