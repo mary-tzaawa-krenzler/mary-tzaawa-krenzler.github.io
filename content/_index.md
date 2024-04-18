@@ -67,7 +67,9 @@ sections:
   - block: markdown
     content:
       title: Work in progress
-      text: Heterogeneous Attention
+      text: |-
+      filters:
+        - research
     design:
       columns: '2'   
   - block: collection
