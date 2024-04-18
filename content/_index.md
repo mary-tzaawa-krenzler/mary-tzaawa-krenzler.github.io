@@ -68,9 +68,7 @@ sections:
     content:
       title: Work in progress
       text:  |-
-      filters:
-        folders:
-         - research
+     Heterogeneous Attention
     design:
       columns: '2'   
   - block: collection
