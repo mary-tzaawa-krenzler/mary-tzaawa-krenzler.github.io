@@ -26,9 +26,9 @@ summary: Reject & Resubmit, Journal of Economic Theory #We present determinacy b
 tags:
 featured: false
 
-links: ''
-# - name: IMFS Working paper (earlier version)
- # url: https://www.imfs-frankfurt.de/fileadmin/user_upload/IMFS_WP_189.pdf
+links: 
+ - name: IMFS Working paper (earlier version)
+  url: https://www.imfs-frankfurt.de/fileadmin/user_upload/IMFS_WP_189.pdf
 url_pdf: ''
 url_code: ''
 url_dataset: ''
