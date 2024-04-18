@@ -73,8 +73,6 @@ sections:
           - research
     design:
       columns: '2'   
-    design:
-      columns: '2'
   - block: collection
     content:
       title: Work in progress
