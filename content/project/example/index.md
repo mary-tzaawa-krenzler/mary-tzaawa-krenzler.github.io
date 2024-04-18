@@ -1,6 +1,6 @@
 ---
-summary: Teaching something
-date: 2021-03-24 
+summary: Ph.D. first year core course. I tought this course in Summer 2022 and Summer 2023.
+date: ""
 external_link: ""
 url_slides: ""
 title: Advanced Macroeconomics II.I
