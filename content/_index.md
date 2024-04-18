@@ -78,7 +78,7 @@ sections:
   - block: markdown
     content:
       title: Work in progress
-      text: **Heterogeneous attention**
+      text: Heterogeneous attention
     design:
       columns: '2'
       view: compact
