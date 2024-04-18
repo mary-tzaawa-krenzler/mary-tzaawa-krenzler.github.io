@@ -53,7 +53,7 @@ sections:
     design:
       columns: '2'
       view: citation
-    - block: collection
+  - block: collection
     content:
       title: Working Papers
       text: |-
@@ -64,7 +64,7 @@ sections:
     design:
       columns: '2'
       view: citation
-      - block: collection
+  - block: collection
     content:
       title: Work in progress
       text: |-
