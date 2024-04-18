@@ -4,7 +4,7 @@ authors:
 - admin
 - Alexander Meyer-Gohde
 date: "2024-03-14 T00:00:00Z"
-doi: "Reject & Resubmit, Journal of Economic Theory"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-03-14T00:00:00Z"
