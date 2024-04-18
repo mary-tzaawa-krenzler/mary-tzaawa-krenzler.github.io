@@ -59,7 +59,7 @@ sections:
       text: |-
       filters:
         folders:
-          - working-papers
+          - publication
         exclude_featured: true
     design:
       columns: '2'
