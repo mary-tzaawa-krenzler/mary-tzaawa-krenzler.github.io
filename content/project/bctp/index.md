@@ -1,6 +1,6 @@
 ---
-summary: Teaching something
-date: 2021-03-24 
+summary: Bachelor elective. I tought this course in Winter 2022. 
+date: "" 
 title: Business Cycle Theory and Policy 
-subtitle: Bachelor, undergraduate elective
+subtitle:  ""
 ---
