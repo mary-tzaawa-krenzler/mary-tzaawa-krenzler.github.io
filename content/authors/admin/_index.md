@@ -25,7 +25,7 @@ organizations:
     url: #https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on information and behavioral frictions in general equilibrium models, households heterogeneity and monetary policy.
+bio: My research focuses on information and behavioral frictions in general equilibrium models, household heterogeneity and monetary policy.
 
 # Interests to show in About widget
 interests:
@@ -116,11 +116,11 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-
+    
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-I am Ph.D. student at the GSEFM at the [Goethe University Frankfurt](https://www.gsefm.eu/about-us.html) and a Research Assistant at the [Institute for Monetary and Financial Stability](https://www.imfs-frankfurt.de). I am an applied theorist in the area of macroeconomics. My research focuses on information and behavioral frictions in general equilibrium models, households heterogeneity and monetary policy.  
+I am Ph.D. student at the GSEFM at the [Goethe University Frankfurt](https://www.gsefm.eu/about-us.html) and a Research Assistant at the [Institute for Monetary and Financial Stability](https://www.imfs-frankfurt.de). I am an applied theorist in the area of macroeconomics. My research focuses on information and behavioral frictions in general equilibrium models, household heterogeneity and monetary policy.  
 
 {style="text-align: justify;"}
