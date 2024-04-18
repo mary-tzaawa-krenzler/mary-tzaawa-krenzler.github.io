@@ -17,10 +17,10 @@ main:
 #    url: '#talks'
 #    weight: 30
   - name: Working Papers
-    url: '#projects'
+    url: '#publication'
     weight: 20
   - name: Work in Progress
-    url: '#projects'
+    url: '#publication'
     weight: 30
  #- name: Publications
  #   url: '#featured'
