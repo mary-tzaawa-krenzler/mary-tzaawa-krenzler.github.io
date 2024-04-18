@@ -3,11 +3,11 @@ title: "Inattentiveness and the Taylor Principle"
 authors:
 - admin
 - Alexander Meyer-Gohde
-date: "2023-09-01T00:00:00Z"
-doi: "" 
+date: "2023-09-07T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -19,26 +19,25 @@ publication: ""
 publication_short: ""
 
 abstract: We present determinacy bounds on monetary policy in three models of inattentiveness - sticky information, imperfect common knowledge, and arbitrary finite inattentiveness. We find that these bounds are identical across these models as they all share a common vertical long run Phillips curve. The resulting bounds are more conservative than in the standard Calvo sticky price New Keynesian model. Specifically, the Taylor principle is now necessary directly - no amount of output targeting can substitute for the monetary authority’s concern for inflation. These determinacy bounds are obtained by appealing to frequency domain and forecasting/prediction innovation techniques that themselves provide novel interpretations of the Phillips curves.
-An earlier version was entitled ``Sticky Information and the Taylor Principle’'.
 
 # Summary. An optional shortened abstract.
-summary:  We present determinacy bounds on monetary policy in three models of inattentiveness - sticky information, imperfect common knowledge, and arbitrary finite inattentiveness. We find that the Taylor principle is now necessary directly. These determinacy bounds are obtained by appealing to frequency domain techniques that themselves provide novel interpretations of the Phillips curves.
-*An earlier version was entitled ``Sticky Information and the Taylor Principle’'*.
+summary: We present determinacy bounds on monetary policy in three models of inattentiveness - sticky information, imperfect common knowledge, and arbitrary finite inattentiveness. We find that the Taylor principle is now necessary directly. These determinacy bounds are obtained by appealing to frequency domain techniques that themselves provide novel interpretations of the Phillips curves.
 
 tags:
+- Source Themes
 featured: false
 
 links:
-- name: Working Paper (Earlier Version)
+- name: IMFS Working paper (earlier version)
   url: https://www.imfs-frankfurt.de/fileadmin/user_upload/IMFS_WP_189.pdf
-url_pdf: 
-url_code: 
-url_dataset: 
-url_poster:
-url_project: 
-url_slides: 
-url_source: 
-url_video: 
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: '#'
+url_poster: '#'
+url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -53,18 +52,18 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-
+- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+slides: example
 ---
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-#Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
