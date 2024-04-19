@@ -100,15 +100,15 @@ sections:
           organization_url: https://www.wiwi.uni-frankfurt.de/startseite.html
           title: Research and Teaching Assistant 
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: 
+          date_end: '2024-02-19'
+          date_start: '2023-09-15'
+          description: Ph.D. Traineesheep in DG-E SSL
+          icon: ecb
+          organization: European Central Bank
+          organization_url:  
+          title: Ph.D. Traineeship
+          url:  #Hier später policy paper verlinken
     design:
       columns: '2'
   - block: portfolio
