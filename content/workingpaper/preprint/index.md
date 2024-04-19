@@ -1,9 +1,9 @@
 ---
-title: "Sticky Information and the Taylor Principle"
+title: "Inattentiveness and the Taylor Principle"
 authors:
 - admin
 - Alexander Meyer-Gohde
-date: "2024-04-01T00:00:00Z"
+date: "2024-03-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -12,23 +12,23 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: #["article-journal"]
+publication_types: 
 
 # Publication name and optional abbreviated publication name.
-publication: "" #"*Journal of Source Themes, 1*(1)"
+publication: ""
 publication_short: ""
 
-abstract: Draft coming soon! 
+abstract: We present determinacy bounds on monetary policy in three models of inattentiveness - sticky information, imperfect common knowledge, and arbitrary finite inattentiveness. We find that these bounds are identical across these models as they all share a common vertical long run Phillips curve. The resulting bounds are more conservative than in the standard Calvo sticky price New Keynesian model. Specifically, the Taylor principle is now necessary directly - no amount of output targeting can substitute for the monetary authority’s concern for inflation. These determinacy bounds are obtained by appealing to frequency domain and forecasting/prediction innovation techniques that themselves provide novel interpretations of the Phillips curves. 
 
 # Summary. An optional shortened abstract.
-summary: This paper studies a business cycle model with households who receive noisy signals about specific prices to which the pay attention to. The information is endogenized due to costly information acquisition.
+summary: Reject & Resubmit, Journal of Economic Theory #We present determinacy bounds on monetary policy in three models of inattentiveness - sticky information, imperfect common knowledge, and arbitrary finite inattentiveness. We find that the Taylor principle is now necessary directly. These determinacy bounds are obtained by appealing to frequency domain techniques that themselves provide novel interpretations of the Phillips curves.
 
 tags:
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: IMFS Working paper (earlier version)
+  url: https://www.imfs-frankfurt.de/fileadmin/user_upload/IMFS_WP_189.pdf
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -41,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
@@ -59,3 +59,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+
+We present determinacy bounds on monetary policy in three models of inattentiveness - sticky information, imperfect common knowledge, and arbitrary finite inattentiveness. We find that these bounds are identical across these models as they all share a common vertical long run Phillips curve. The resulting bounds are more conservative than in the standard Calvo sticky price New Keynesian model. Specifically, the Taylor principle is now necessary directly - no amount of output targeting can substitute for the monetary authority’s concern for inflation. These determinacy bounds are obtained by appealing to frequency domain and forecasting/prediction innovation techniques that themselves provide novel interpretations of the Phillips curves.
