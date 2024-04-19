@@ -93,12 +93,11 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2021-10-04'
-          description: |-
-            Teaching and Supporting Research
+          description: As an RA I am supporting my supervisor Prof. Alexander Meyer-Gohde in research tasks and contribute to reseach outcomes. As a TA I am responsible for teaching tutorials in multiple graduate and undergraduate courses on macroeconomics. 
           icon: goethe
           organization: Goethe University Frankfurt 
           organization_url: https://www.wiwi.uni-frankfurt.de/startseite.html
-          title: As an RA I am supporting my supervisor Prof. Alexander Meyer-Gohde in research tasks and contribute to reseach outcomes. As a TA I am responsible for teaching tutorials in multiple graduate and undergraduate courses on macroeconomics. 
+          title: Research and Teaching Assistant
           url: ''
         - certificate_url: 
           date_end: '2024-02-19'
