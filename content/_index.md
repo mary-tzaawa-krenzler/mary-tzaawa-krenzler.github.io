@@ -90,27 +90,30 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: 
-          date_end: ''
+        - certificate_url:
           date_start: '2021-10-04'
+          date_end: ''
+          #date_start: '2021-10-04'
           description: As an RA I work at the chair of Prof. Alexander Meyer-Gohde supporting in research tasks and contribute to reseach outcomes. As a TA I am responsible for teaching tutorials in multiple graduate and undergraduate courses on macroeconomics and supporting in supervision of undergraduate students. 
           icon: goethe
           organization: Goethe University Frankfurt 
           organization_url: https://www.wiwi.uni-frankfurt.de/startseite.html
           title: Research and Teaching Assistant
           url: ''
-        - certificate_url: 
-          date_end: '2024-02-19'
+        - certificate_url:
           date_start: '2023-09-15'
+          date_end: '2024-02-19'
+          #date_start: '2023-09-15'
           description: Working on the main workhorse model for supply side issues by incorporating a new measure for structural unemployment and potential output. Using Kalman filtering techniques to improve the estimation, perform forecasting exercises and to deduct a macroeconomic narrative. 
           icon: ecb
           organization: European Central Bank
           organization_url: https://www.ecb.europa.eu/home/html/index.en.html #oder policy paper verlinken
           title: Ph.D. Traineeship, DG-E SSL
           url:  #Hier später policy paper verlinken
-        - certificate_url: 
-          date_end: 'Present'
+        - certificate_url:
           date_start: '2021-10-04'
+          date_end: ''
+          #date_start: '2021-10-04'
           description: As an RA I work at the chair of Prof. Alexander Meyer-Gohde supporting in research tasks and contribute to reseach outcomes. As a TA I am responsible for teaching tutorials in multiple graduate and undergraduate courses on macroeconomics and supporting in supervision of undergraduate students. 
           icon: imfs
           organization: European Central Bank
