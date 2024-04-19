@@ -115,7 +115,7 @@ sections:
   - block: accomplishments
     id: experience 
     content:
-      title: Relevant Experience
+      title: 'Relevant Experience'
       subtitle:
       tet: 
       date_format: Jan 2006
