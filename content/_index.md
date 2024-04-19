@@ -81,6 +81,15 @@ sections:
 #          description: Taught electronic engineering and researched semiconductor physics.
 #    design:
 #      columns: '2'
+  - block: accomplishments
+    id: job
+    content:
+      title: Relevant Experience
+      filters:
+        folders:
+          - project
+        design:
+          columns: '2'
   - block: portfolio
     id: teaching
     content:
