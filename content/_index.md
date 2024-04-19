@@ -112,6 +112,34 @@ sections:
 #          description: Taught electronic engineering and researched semiconductor physics.
 #    design:
 #      columns: '2'
+  - block: accomplishments
+    id: experience
+    content:
+      title: Relevant Experience
+      subtitle:''
+      tet: ''
+      date_format: Jan 2006
+      items:
+        - title: Neural Networks and Deep Learning
+          certificate_url: https://www.coursera.org
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          url: ''
+        - title: Blockchain Fundamentals
+          certificate_url: https://www.edx.org
+          date_end: ''
+          date_start: '2021-01-01'
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          icon: edx
+          organization: edX
+          organization_url: https://www.edx.org
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+      design:
+        columns: '2'
   - block: portfolio
     id: teaching
     content:
