@@ -105,17 +105,17 @@ sections:
           description: Working on the main workhorse model for supply side issues by incorporating a new measure for structural unemployment and potential output. Using Kalman filtering techniques to improve the estimation, perform forecasting exercises and to deduct a macroeconomic narrative. 
           icon: ecb
           organization: European Central Bank
-          organization_url:  
+          organization_url: https://www.ecb.europa.eu/home/html/index.en.html #oder policy paper verlinken
           title: Ph.D. Traineeship, DG-E SSL
           url:  #Hier später policy paper verlinken
         - certificate_url: 
-          date_end: '2024-02-19'
-          date_start: '2023-09-15'
-          description: Working on the main workhorse model for supply side issues by incorporating a new measure for structural unemployment and potential output. Using Kalman filtering techniques to improve the estimation, perform forecasting exercises and to deduct a macroeconomic narrative. 
-          icon: ecb
+          date_end: ''
+          date_start: '2021-09-04'
+          description: As an RA I work at the chair of Prof. Alexander Meyer-Gohde supporting in research tasks and contribute to reseach outcomes. As a TA I am responsible for teaching tutorials in multiple graduate and undergraduate courses on macroeconomics and supporting in supervision of undergraduate students. 
+          icon: imfs
           organization: European Central Bank
           organization_url:  
-          title: Ph.D. Traineeship, DG-E SSL
+          title: Research Assistant
           url:  #Hier später policy paper verlinken    
     design:
       columns: '2'
