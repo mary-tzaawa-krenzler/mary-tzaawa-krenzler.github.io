@@ -60,7 +60,7 @@ sections:
       text: |-
       filters:
         folders:
-          - publication2
+          - workingpaper
         exclude_featured: true
     design:
       columns: '2'
