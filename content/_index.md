@@ -109,8 +109,8 @@ sections:
           title: Ph.D. Traineeship, DG-E SSL
           url:  #Hier später policy paper verlinken
         - certificate_url: 
-          date_end: ''
-          date_start: '2021-09-04'
+          date_end: 'Present'
+          date_start: '2021-10-04'
           description: As an RA I work at the chair of Prof. Alexander Meyer-Gohde supporting in research tasks and contribute to reseach outcomes. As a TA I am responsible for teaching tutorials in multiple graduate and undergraduate courses on macroeconomics and supporting in supervision of undergraduate students. 
           icon: imfs
           organization: European Central Bank
