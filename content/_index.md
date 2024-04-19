@@ -93,7 +93,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2021-10-04'
-          description: As an RA I am supporting my supervisor Prof. Alexander Meyer-Gohde in research tasks and contribute to reseach outcomes. As a TA I am responsible for teaching tutorials in multiple graduate and undergraduate courses on macroeconomics. 
+          description: As an RA I work at the chair of Prof. Alexander Meyer-Gohde supporting in research tasks and contribute to reseach outcomes. As a TA I am responsible for teaching tutorials in multiple graduate and undergraduate courses on macroeconomics and supporting in supervision of undergraduate students. 
           icon: goethe
           organization: Goethe University Frankfurt 
           organization_url: https://www.wiwi.uni-frankfurt.de/startseite.html
@@ -108,6 +108,15 @@ sections:
           organization_url:  
           title: Ph.D. Traineeship, DG-E SSL
           url:  #Hier später policy paper verlinken
+      - certificate_url: 
+          date_end: ''
+          date_start: '2021-10-04'
+          description: As an RA I support Prof. Alexander Meyer-Gohde in research tasks and contribute to reseach outcomes. 
+          icon: imfs
+          organization: Institute for Monetary and FInancial Stability
+          organization_url: https://www.wiwi.uni-frankfurt.de/startseite.html
+          title: Research Assistant
+          url: ''
     design:
       columns: '2'
   - block: portfolio
