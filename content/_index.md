@@ -93,8 +93,9 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2021-10-04'
-          description: 'Teaching and Supporting Research'
-          icon: 
+          description: |-
+            Teaching and Supporting Research
+          icon: goethe
           organization: Goethe University Frankfurt 
           organization_url: https://www.wiwi.uni-frankfurt.de/startseite.html
           title: Research and Teaching Assistant 
