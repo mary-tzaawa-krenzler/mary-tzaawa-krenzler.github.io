@@ -98,12 +98,12 @@ sections:
           icon: goethe
           organization: Goethe University Frankfurt 
           organization_url: https://www.wiwi.uni-frankfurt.de/startseite.html
-          title: Research and Teaching Assistant 
+          title: As an RA I am supporting my supervisor Prof. Alexander Meyer-Gohde in research tasks and contribute to reseach outcomes. As a TA I am responsible for teaching tutorials in multiple graduate and undergraduate courses on macroeconomics. 
           url: ''
         - certificate_url: 
           date_end: '2024-02-19'
           date_start: '2023-09-15'
-          description: Working on the main workhorse model for supply side issues, incorporating a new measure for structural unemployment and potential output. Extending the model from a theoretical modelling perspective and for empirical estimation using Kalman filtering techniques on an unobserved component model and performing forecasting exercises. 
+          description: Working on the main workhorse model for supply side issues by incorporating a new measure for structural unemployment and potential output. Using Kalman filtering techniques to improve the estimation, perform forecasting exercises and to deduct a macroeconomic narrative. 
           icon: ecb
           organization: European Central Bank
           organization_url:  
