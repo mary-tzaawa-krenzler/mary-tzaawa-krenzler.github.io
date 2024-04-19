@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Mary Tzaawa-Krenzler # Website name
-baseURL: 'https://mary-tzaawa-krenzler.com'  #'https://mary-tzaawa-krenzler.github.io/' # Website URL
+baseURL: 'https://www.mary-tzaawa-krenzler.com/' #'https://mary-tzaawa-krenzler.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
