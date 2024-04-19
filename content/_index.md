@@ -103,11 +103,11 @@ sections:
         - certificate_url: 
           date_end: '2024-02-19'
           date_start: '2023-09-15'
-          description: Ph.D. Traineesheep in DG-E SSL
+          description: Working on the main workhorse model for supply side issues, incorporating a new measure for structural unemployment and potential output. Extending the model from a theoretical modelling perspective and for empirical estimation using Kalman filtering techniques on an unobserved component model and performing forecasting exercises. 
           icon: ecb
           organization: European Central Bank
           organization_url:  
-          title: Ph.D. Traineeship
+          title: Ph.D. Traineeship, DG-E SSL
           url:  #Hier später policy paper verlinken
     design:
       columns: '2'
