@@ -143,9 +143,9 @@ sections:
       appointment_url:  
       address:
         street: Theodor-W.-Adorno Platz 3
-        city: Frankfurt am Main 
+        city: 60629 Frankfurt am Main 
         region: 
-        postcode: '60629'
+        postcode: ''
         country:  Germany
         country_code: DE
       directions:
