@@ -157,7 +157,7 @@ sections:
         street: Theodor-W.-Adorno Platz 3
         city: 60629 Frankfurt am Main 
         region: 
-        postcode: ''
+        postcode:
         country:  Germany
         country_code: DE
       directions:
