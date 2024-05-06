@@ -121,8 +121,6 @@ social:
 highlight_name: false
 ---
 
-Welcome! მოგესალმებით!  
-
 I am a Ph.D. student at the [Graduate School for Economics, Finance and Management](https://www.gsefm.eu/about-us.html) at the [Goethe University Frankfurt](https://www.wiwi.uni-frankfurt.de/en/home.html) where I additionally work as a research and teaching assistant. I am also a member of the [Institute for Monetary and Financial Stability](https://www.imfs-frankfurt.de). 
 
 I am an applied theorist in the area of macroeconomics. My research focuses on information and behavioral frictions in general equilibrium models, household heterogeneity and monetary policy.  
