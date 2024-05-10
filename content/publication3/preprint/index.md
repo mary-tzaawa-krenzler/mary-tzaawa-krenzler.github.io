@@ -29,7 +29,7 @@ featured: false
 links:
 - name: IMFS Working paper (earlier version)
   url: https://www.imfs-frankfurt.de/fileadmin/user_upload/IMFS_WP_189.pdf
-url_pdf: ''
+url_pdf: uploads/inattention_determinacy.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
