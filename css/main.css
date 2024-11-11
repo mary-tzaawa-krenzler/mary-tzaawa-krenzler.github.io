@@ -1,5 +1,9 @@
-btn { 
-  font-size: 20px 
+body{
+   font-family: "Montserrat", sans-serif;  
+  font-size: 2rem;
+  color: white;
+  background-color: #333;
+  text-align:center;
 }
 a {
   color: #f44336;
