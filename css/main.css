@@ -1,14 +1,32 @@
-a {
-  color: #f44336;
-}
-span:lang(ja) {
-  font-family: sans-serif;
-}
-span:lang(cn) {
-  font-family: sans-serif;
+body{
+  font-family: 'Arial';
+  font-size: 18px;
 }
 
-h1 {
-  line-height: 2;
-  color: #f0000;
+#images{
+  font-family: 'Arial';
+  text-align:left;
+  font-style: regular;
+  letter-spacing: 0;
+  line-height: 1.5em;
+  text-decoration: none;
+  word-spacing: 0;
+}
+
+#images a{
+  margin:0px 20px;
+  display:inline-block;
+  height: 100%;
+  text-decoration:none;
+  color:black;
+  font-family: 'Arial', serif;
+  }
+
+.caption {
+  width: 200px;
+  text-align: center;
+}
+
+@media screen and (max-width:480px) {
+  #sidebar { display: none;}
 }
