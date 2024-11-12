@@ -19,3 +19,7 @@ a {
 div {
   width: 100%;
 }
+
+span {
+  display: block;
+}
