@@ -1,0 +1,27 @@
+#links  a:link{
+  color: #f44336; 
+}
+#links a:visited{
+    color: #000;
+}
+#links a:hover{
+    color: #000;
+}
+#links a:active{
+    color: #000;
+}
+span:lang(ja) {
+  font-family: sans-serif;
+}
+span:lang(cn) {
+  font-family: sans-serif;
+}
+
+h1 {
+  line-height: 2;
+  color: #f00000;
+}
+
+.btn-primary{
+    font-size:21px;
+}
