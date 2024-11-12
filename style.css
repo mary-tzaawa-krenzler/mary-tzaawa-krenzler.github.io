@@ -23,3 +23,6 @@ div {
 span {
   display: block;
 }
+.text-justify {
+    text-align: justify;
+}
