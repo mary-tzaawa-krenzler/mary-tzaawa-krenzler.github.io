@@ -21,3 +21,7 @@ h1 {
   line-height: 2;
   color: #f00000;
 }
+
+.btn-primary{
+    font-size:21px;
+}
