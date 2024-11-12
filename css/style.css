@@ -1,5 +1,5 @@
-a {
-  color: #f44336;
+#links  {
+  color: #f44336; !important
 }
 span:lang(ja) {
   font-family: sans-serif;
