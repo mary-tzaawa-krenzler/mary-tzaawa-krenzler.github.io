@@ -27,3 +27,9 @@ span {
     text-align: justify;
 }
 
+
+
+target_element * {
+    margin: 0;
+    padding: 0;
+}
