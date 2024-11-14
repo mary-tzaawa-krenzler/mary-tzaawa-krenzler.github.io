@@ -29,11 +29,8 @@ span {
 
 
 
-body {
-     direction:rtl;
- }
-@media (max-width: 480px) {
-    body {
-     direction:initial;
-    }
+@media (max-width: 767px) {
+  .container-fluid, .row {
+    padding:0px;
+  }
 }
