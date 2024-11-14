@@ -34,7 +34,7 @@ span {
     }
 
     body {
-      padding:0;
+      padding-left:5px;
     }
 
     .navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top {
@@ -42,11 +42,4 @@ span {
       margin-right: 0;
       margin-bottom:0;
     }
-}
-
-element{
-    margin-left:  -24px;
-    margin-right: -24px;
-    padding-left:  24px;
-    padding-right:  24px;
 }
