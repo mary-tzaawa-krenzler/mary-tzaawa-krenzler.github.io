@@ -26,3 +26,26 @@ span {
 .text-justify {
     text-align: justify;
 }
+
+@media screen and (max-width:800px){
+
+.parent{ 
+padding-bottom:5%;
+}
+
+.child1{
+width:98%;
+text-align: center; 
+}
+
+.avatar-container{
+  text-align: center;
+  display: block;
+  padding-top:10px;
+}
+
+.child2{
+  width:98%;
+  text-align: center;
+}
+}
