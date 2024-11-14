@@ -30,12 +30,12 @@ span {
 
 @media (max-width: 978px) {
     .container {
-      padding:10%;
-      margin:0;
+      padding:100px;
+      margin:10px;
     }
 
     body {
-      padding-left:10%;
+      padding-left:100px;
     }
 
    
