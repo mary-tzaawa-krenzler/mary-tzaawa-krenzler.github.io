@@ -68,5 +68,20 @@ span {
    width:98%;
   text-align: center; 
   }
- 
+  
+ .child1{
+width:98%;
+text-align: center; 
+}
+
+.pic{
+  text-align: center;
+  display: block;
+  padding-top:10px;
+}
+
+.child2{
+  width:98%;
+  text-align: center;
+}
 }
