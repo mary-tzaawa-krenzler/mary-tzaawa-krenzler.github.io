@@ -16,6 +16,7 @@ body{
 
 .child2{
   display:inline-block;
+    width:53%;
   vertical-align:top;
   text-align:left;
 }
