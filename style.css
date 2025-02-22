@@ -6,6 +6,7 @@ body{
 }
 .child1{
   display:inline-block;
+  width:32%;
   vertical-align:top;
   text-align:left;
    padding-top:15px;
@@ -28,6 +29,7 @@ body{
   padding-right:1.5%;
   padding-left:1.5%;
 }
+
 
 span:lang(ja) {
   font-family: sans-serif;
