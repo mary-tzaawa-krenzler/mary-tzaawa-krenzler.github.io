@@ -9,17 +9,15 @@ body{
 .child1{
   display:inline-block;
   width:32%;
-  /*max-width:200px;*/
   vertical-align:top;
   text-align:left;
   padding-top:15px;
   padding-right:1.5%;
   padding-left:2.5%;
-  /*border:1px solid black;*/
 }
 
 .pic{
-  text-align:right;
+  text-align:left;
   display:block;
   padding-top:0px;
 }
@@ -27,13 +25,11 @@ body{
 .child2{
   display:inline-block;
   width:53%;
-  /*max-width:400px;*/
   vertical-align:top;
   text-align:left;
   padding-top:20px;
   padding-right:1.5%;
   padding-left:2.5%;
-  /*border:1px solid black;*/
 }
 
 
