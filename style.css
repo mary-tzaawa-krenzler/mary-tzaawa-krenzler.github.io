@@ -6,15 +6,12 @@ body{
 }
 .child1{
   display:inline-block;
-  width:32%;
   vertical-align:top;
   text-align:left;
-
 }
 
 .pic{
   text-align:left;
-
 }
 
 .child2{
@@ -22,7 +19,6 @@ body{
   width:53%;
   vertical-align:top;
   text-align:left;
-
 }
 
 
