@@ -12,13 +12,15 @@ body{
   width:32%;
   vertical-align:top;
   text-align:left;
-
-
+   padding-top:15px;
+  padding-right:1.5%;
+  padding-left:2.5%;
 }
 
 .pic{
   text-align:left;
   display:block;
+  padding-top:0px;
 
 }
 
@@ -27,7 +29,9 @@ body{
   width:53%;
   vertical-align:top;
   text-align:left;
-
+   padding-top:20px;
+  padding-right:1.5%;
+  padding-left:2.5%;
 }
 
 span:lang(ja) {
