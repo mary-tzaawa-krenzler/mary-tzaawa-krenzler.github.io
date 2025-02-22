@@ -35,7 +35,9 @@ span {
 @media screen and (max-width: 800px) {
    .header{
    width:98%;
-text-align: center; 
+  text-align: center; 
+  font-size: 14px; 
+
   }
  
 }
