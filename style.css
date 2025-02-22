@@ -6,9 +6,10 @@ html {
 body{
   font-family: 'Roboto', sans-serif;
   font-size: 16px; 
-   margin: auto;
   padding: auto;
+    margin: 10px;
 }
+
 
 span:lang(ja) {
   font-family: sans-serif;
