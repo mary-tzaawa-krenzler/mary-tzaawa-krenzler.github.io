@@ -15,8 +15,8 @@ body{
 }
 
 .pic{
-  text-align:left;
-  padding-top:0px;
+  text-align:pull-left;
+  padding-top:1px;
 }
 
 .child2{
