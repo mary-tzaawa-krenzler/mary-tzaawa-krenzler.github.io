@@ -25,3 +25,12 @@ h1 {
 .btn-primary{
     font-size:21px;
 }
+
+paper-links a {
+    color: #17178c;
+    text-decoration: none;
+}
+
+.paper-links a:hover {
+    text-decoration: underline;
+}
